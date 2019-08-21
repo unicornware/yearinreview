@@ -1,0 +1,88 @@
+{
+  "name": "@dbklab/yearinreview",
+  "description": "A look back at the Diamondback's most popular and important stories over the last few academic years.",
+  "version": "0.1.0",
+  "author": "Lexus Drumgold <lex@lexusdrumgold.design> (https://lexusdrumgold.design)",
+  "scripts": {
+    "preinstall": "rm -rf node_modules && npm run prebuild",
+    "lint": "eslint ./src/api/*.js ./src/components/*.js ./src/components/**/*.jsx ./src/controllers/*.js --fix",
+    "lint-watch": "esw -w ./src/api/*.js ./src/components/*.js ./src/components/**/*.js ./src/components/**/*.jsx ./src/controllers/*.js --fix",
+    "dev": "NODE_ENV=development cp .env.development .env && concurrently \"npm:lint-watch\" \"react-scripts start\"",
+    "postdev": "rm -rf .env",
+    "test": "NODE_ENV=test jest --detectOpenHandles",
+    "prebuild": "rm -rf build/",
+    "build": "react-scripts build",
+    "prestart": "npm test && NODE_ENV=staging npm run build",
+    "start": "firebase serve --only hosting",
+    "poststart": "npm run prebuild && rm -rf .env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Diamondback-Lab/yearinreview.git"
+  },
+  "keywords": [
+    "google",
+    "firebase",
+    "reactjs"
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/The-Diamondback-Lab/yearinreview/issues"
+  },
+  "homepage": "https://dbkyearinreview.web.app",
+  "dependencies": {
+    "@feathersjs/errors": "^3.3.6",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "concurrently": "^4.1.2",
+    "jquery": "^3.4.1",
+    "react": "^16.9.0",
+    "react-dfp": "^0.13.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "showdown": "^1.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-export-default-from": "^7.5.2",
+    "@babel/plugin-proposal-export-namespace-from": "^7.2.0",
+    "@babel/plugin-proposal-throw-expressions": "^7.2.0",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^11.0.0-beta.0",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.2.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-config-standard-jsx": "^7.0.0",
+    "eslint-config-standard-react": "^9.0.0",
+    "eslint-plugin-import": "^2.17.1",
+    "eslint-plugin-jest": "^22.5.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-watch": "^6.0.0",
+    "firebase-tools": "^7.1.0",
+    "identity-obj-proxy": "^3.0.0",
+    "node-sass": "^4.12.0",
+    "react-axe": "^3.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": "10"
+  }
+}

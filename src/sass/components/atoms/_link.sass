@@ -1,0 +1,22 @@
+// ----------------------------------------------------------------------------
+// Link specific styles, variables, placeholders, mixins and functions
+// @see components/atoms/Link.jsx
+// @author Lexus Drumgold
+// ----------------------------------------------------------------------------
+
+// Styles
+
+// Default link
+// 1. Style &:hover, &:active, &:focus -> add cursor and increase font weight
+// 2. Set default color to Diamondback Red
+// 3. Remove margin
+// 4. Remove text decoration
+.ada-link
+  +event
+    cursor: pointer
+    font-weight: 700
+
+
+  color: $accent-med
+  margin: 0
+  text-decoration: none

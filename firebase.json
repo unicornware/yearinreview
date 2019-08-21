@@ -1,0 +1,50 @@
+{
+  "hosting": {
+    "cleanUrls": true,
+    "postdeploy": [
+      "rm -rf build/"
+    ],
+    "predeploy": [
+      "npm run lint",
+      "npm test",
+      "NODE_ENV=production"
+    ],
+    "public": "build",
+    "ignore": [
+      "**/.*",
+      "**/node_modules/**",
+      "babel.config.js",
+      "firebase.json",
+      "jest.config.js"
+    ],
+    "redirects": [
+      {
+        "source": "/:year/:month/:day/:title",
+        "destination": "https://dbknews.com/:year/:month/:day/:title",
+        "type": 301
+      },
+      {
+        "source": "/17",
+        "destination": "http://yearinreview.diamondbacklab.com",
+        "type": 302
+      },
+      {
+        "source": "/18",
+        "destination": "https://github.com/The-Diamondback-Lab/yearinreview",
+        "type": 302
+      },
+      {
+        "source": "/repo",
+        "destination": "https://github.com/The-Diamondback-Lab/yearinreview",
+        "type": 301
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "trailingSlash": false
+  }
+}
