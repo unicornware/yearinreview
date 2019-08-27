@@ -1,0 +1,17 @@
+<div id="{{id}}" class="month-block">
+  <div class="month-block-header">
+    <h3 class="monthYear">
+      {{name}}
+    </h3>
+    <p class="numArticles" ng-if = "articles[id].length > 1 || articles[id].length == 0">
+      {{articles[id].length}} stories
+    </p>
+    <p class="numArticles" ng-if = "articles[id].length == 1">
+      {{articles[id].length}} story
+    </p>
+  </div>
+
+  <div class="articles-wrapper">
+    <article ng-repeat = "articleData in articles[id]" article-data = "articleData" ></article>
+  </div>
+</div>

@@ -1,7 +1,7 @@
 {
   "name": "@dbklab/yearinreview",
   "description": "A look back at the Diamondback's most popular and important stories over the last few academic years.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Lexus Drumgold <lex@lexusdrumgold.design> (https://lexusdrumgold.design)",
   "scripts": {
     "preinstall": "rm -rf node_modules && npm run prebuild",

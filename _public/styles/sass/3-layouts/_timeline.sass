@@ -1,0 +1,52 @@
+/* TIMELINE STYLES - TIMELINE.SASS */
+
+#timeline
+  +flex-row
+  background-color: $white
+  padding: 2.5em 0
+  
+  .wrapper
+    +flex-col
+    align-items: flex-start
+    justify-content: center
+    
+    .month-block
+      +flex-col
+      justify-content: flex-start
+      width: 100%
+      margin-bottom: 3em
+
+      .month-block-header
+        +flex-row
+        align-items: flex-end
+        width: 100%
+        margin: 0 0 .5em 0
+
+        .monthYear, .numArticles
+          text-transform: uppercase
+
+        .monthYear
+          color: $black
+          font-size: 1.5em
+          margin: 0 .25em 0 0
+          
+          @media all and (max-width: 530px)
+            font-size: 1.25em
+
+        .numArticles
+          color: $accent
+          margin: 0 0 0 .25em
+          
+          @media all and (max-width: 530px)
+            font-size: .9em
+
+
+      .articles-wrapper
+        width: 100%
+        -moz-columns: 3 315px
+        -webkit-columns: 3 315px
+        columns: 3 315px
+        -moz-column-gap: 1.5em
+        -webkit-column-gap: 1.5em
+        column-gap: 1.5em
+        padding: 0    

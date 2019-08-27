@@ -26,8 +26,6 @@ the DBK's most popular stories over the last few academic years.
 
 **Attention: This section is under construction.**
 
-To view the project in a staging environment, run `npm start`.
-
 ## Built With
 
 - [Google Firebase][1] - Mobile development platform

@@ -1,0 +1,66 @@
+/* SPLASH.SASS - SPLASH SECTION STYLES */
+
+#splash
+  +bkg-img("../../assets/img/img-splash.png", center, center)
+  height: 100vh
+  width: 100vw
+
+  .wrapper
+    +flex-col
+    align-items: center
+    justify-content: center
+    height: 100%
+    width: 100vw
+    top: 0%
+    left: 0%
+    overflow: hidden
+
+    .vid-container
+      position: absolute
+      height: 100%
+      width: 100%
+      overflow: hidden
+
+      .overlay
+        position: absolute
+        z-index: 1
+        width: 100%
+        height: 100%
+        background-color: rgba($black, .7)
+
+      video
+        position: absolute
+        z-index: 0
+        min-height: 100%
+        min-width: 100%
+
+    .text
+      z-index: 2
+
+      h1
+        +transition(all, .2s, ease-in-out)
+        +flex-col
+        align-items: center
+        justify-content: space-between
+        margin: 3em 0 0 0
+        text-transform: uppercase
+        text-align: center
+        font-size: 3.9em
+        color: $white
+
+
+      .scroll-animation
+        +flex-row
+        align-items: center
+        justify-content: center
+        margin: 10em 0 0 0
+
+        span, i
+          margin: 0 .125em
+          color: rgba(255, 255, 255, 0.3)
+
+        span
+          text-transform: uppercase
+
+        i
+          font-size: 3em

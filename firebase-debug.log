@@ -1,0 +1,27 @@
+[debug] [2019-08-27T08:11:35.541Z] ----------------------------------------------------------------------
+[debug] [2019-08-27T08:11:35.545Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve --only hosting
+[debug] [2019-08-27T08:11:35.545Z] CLI Version:   7.2.4
+[debug] [2019-08-27T08:11:35.545Z] Platform:      darwin
+[debug] [2019-08-27T08:11:35.545Z] Node Version:  v12.7.0
+[debug] [2019-08-27T08:11:35.547Z] Time:          Tue Aug 27 2019 04:11:35 GMT-0400 (Eastern Daylight Time)
+[debug] [2019-08-27T08:11:35.547Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-08-27T08:11:35.560Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-08-27T08:11:35.561Z] > authorizing via signed-in user
+[debug] [2019-08-27T08:11:35.561Z] [iam] checking project dbkyearinreview for permissions ["firebase.projects.get"]
+[debug] [2019-08-27T08:11:35.564Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/dbkyearinreview:testIamPermissions  
+
+[debug] [2019-08-27T08:12:24.588Z] ----------------------------------------------------------------------
+[debug] [2019-08-27T08:13:46.016Z] ----------------------------------------------------------------------
+[debug] [2019-08-27T08:13:46.018Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy -m completed migration
+[debug] [2019-08-27T08:13:46.018Z] CLI Version:   7.2.4
+[debug] [2019-08-27T08:13:46.018Z] Platform:      darwin
+[debug] [2019-08-27T08:13:46.018Z] Node Version:  v12.7.0
+[debug] [2019-08-27T08:13:46.019Z] Time:          Tue Aug 27 2019 04:13:46 GMT-0400 (Eastern Daylight Time)
+[debug] [2019-08-27T08:13:46.019Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-08-27T08:13:46.026Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-08-27T08:13:46.026Z] > authorizing via signed-in user
+[debug] [2019-08-27T08:13:46.026Z] [iam] checking project dbkyearinreview for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-08-27T08:13:46.028Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/dbkyearinreview:testIamPermissions  
+

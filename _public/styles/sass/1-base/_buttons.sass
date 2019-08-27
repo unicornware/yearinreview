@@ -1,0 +1,24 @@
+/* BUTTONS.SASS - BUTTON STYLES*/
+.btn
+  +transition(all, .2s, ease-in-out)
+  padding: .75em 1.5em
+  margin: 0
+  text-decoration: none
+  text-transform: uppercase
+  font-size: .9em
+  text-align: center
+    
+.btn-red
+  @extend .btn
+  background-color: $accent
+  color: $white
+  
+.btn-white
+  @extend .btn
+  background-color: $white
+  color: $accent
+  
+.btn-dark
+  @extend .btn
+  background-color: $darkgray
+  color: $white

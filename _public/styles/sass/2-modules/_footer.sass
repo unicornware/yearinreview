@@ -1,0 +1,32 @@
+/* FOOTER STYLES - FOOTER.SASS */
+footer
+  background-color: $darkgray
+  
+  .wrapper
+    +flex-row
+    align-items: flex-end
+    justify-content: space-between
+    padding: 1.5em 0
+    
+    @media all and (max-width: 665px)
+      +flex-col
+      align-items: center
+      justify-content: center
+    
+    p
+      color: $white
+      font-size: 1.1em
+      margin: 0
+      
+      @media all and (max-width: 665px)
+        margin-bottom: .5em
+      
+      a
+        color: $accent
+        margin-left: .25em
+          
+    #addthis
+      div
+        div
+          a
+            margin-bottom: 0

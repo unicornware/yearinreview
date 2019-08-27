@@ -1,0 +1,27 @@
+=flex-row
+  display: flex
+  flex-direction: row
+
+=flex-col
+  display: flex
+  flex-direction: column
+
+=bkg-img($url, $position1, $position2)
+  background:
+    image: url("#{$url}")
+    size: cover
+    repeat: no-repeat
+    position: $position1 $position2
+
+=bkg2($position1, $position2)
+  background:
+    size: cover
+    repeat: no-repeat
+    position: $position1 $position2
+  
+=transition($type, $time, $timing)
+  -webkit-transition: $type $time $timing
+  -moz-transition: $type $time $timing
+  -ms-transition: $type $time $timing
+  -o-transition: $type $time $timing
+  transition: $type $time $timing

@@ -5,11 +5,9 @@
       "rm -rf build/"
     ],
     "predeploy": [
-      "npm run lint",
-      "npm test",
       "NODE_ENV=production"
     ],
-    "public": "build",
+    "public": "_public",
     "ignore": [
       "**/.*",
       "**/node_modules/**",

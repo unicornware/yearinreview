@@ -1,0 +1,166 @@
+<!doctype html>
+<html ng-app="review-app">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description"
+    content="A look back at the Diamondback's most popular and important stories over the last few academic years" />
+
+  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+  <link rel="icon" type="image/png" href="/assets/icons/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/assets/icons/pwa-192x192.png" sizes="192x192">
+
+  <meta name="msapplication-config" content="%PUBLIC_URL%/browserconfig.xml">
+
+  <!--imports-->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://use.fontawesome.com/c6d3fe14c1.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:700" rel="stylesheet">
+
+  <!--style-->
+  <link rel="stylesheet" type="text/css" href="styles/css/main.css">
+  <link rel="stylesheet" type="text/css" href="styles/css/spinner.css">
+
+
+  <!-- Angular Main Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.js"></script>
+
+  <!-- Angular Libraries/Plugins -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.3/angular-ui-router.js"></script>
+
+  <!-- Our Scripts -->
+  <script src="js/app.js"></script>
+  <script type="text/javascript" src="js/timeline.js"></script>
+
+  <title>DBK 2018-19 Year In Review</title>
+
+</head>
+
+<body ng-controller="main-ctlr">
+
+  <div class="spinner-wrapper">
+    <div class="spinner-container">
+      <center> <img
+          src="https://s3.amazonaws.com/wapopartners.com/dbknews-wp/wp-content/uploads/2016/12/11225146/SpecialProject.jpg"
+          width="100px" height="auto"><br />
+        <div class="preload"> <span></span> <span></span> <span></span></div>
+      </center>
+    </div>
+  </div>
+
+  <!--header-->
+  <header>
+    <div class="wrapper">
+      <div class="icons">
+        <div class="menu">
+          <p id="filter-display"></p>
+          <i class="fa fa-bars" id="bars"></i>
+        </div>
+        <div class="search">
+          <p id="search-term"><span ng-if="term.length > 0">Search: </span><span ng-bind="term"></span></p>
+          <i class="fa fa-search" id="search-btn"></i>
+        </div>
+      </div>
+
+
+      <input type="text" id="search" placeholder="search for an article" ng-change="search()" ng-model="term">
+
+      <main id="header-main">
+        <nav id="jumptodate">
+          <p>jump to date <i class="fa fa-arrow-right"></i></p>
+          <div class="dates">
+            <a href="#august18" class="aug18-link date-link">august 2018</a>
+            <a href="#september18" class="sep18-link date-link">september 2018</a>
+            <a href="#october18" class="oct18-link date-link">october 2018</a>
+            <a href="#november18" class="nov18-link date-link"> november 2018</a>
+            <a href="#december18" class="dec18-link date-link">december 2018</a>
+            <br />
+            <a href="#january19" class="jan19-link date-link">january 2019</a>
+            <a href="#february19" class="feb19-link date-link">february 2019</a>
+            <a href="#march19" class="mar19-link date-link">march 2019</a>
+            <a href="#april19" class="apr19-link date-link"> april 2019</a>
+            <a href="#may19" class="may19-link date-link">may 2019</a>
+            <a href="#june19" class="jun19-link date-link">june 2019</a>
+            <a href="#july19" class="jul19-link date-link">july 2019</a>
+            <a href="#august19" class="aug19-link date-link">august 2019</a>
+          </div>
+        </nav>
+      </main>
+
+      <div class="menu-btns">
+        <a id="close-btn">close menu</a>
+      </div>
+    </div>
+  </header>
+
+  <!--splash section-->
+  <section id="splash">
+
+    <div class="wrapper">
+
+      <div class="vid-container">
+        <div class="overlay"></div>
+
+        <video autoplay loop muted>
+          <source src="assets/videos/intro.mp4">
+        </video>
+      </div>
+
+      <div class="text">
+        <h1>a year in review</h1>
+
+        <p class="scroll-animation">
+          <span>scroll</span>
+          <i class="fa fa-angle-double-down animated infinite pulse" id="doubledown"></i>
+          <span>down</span>
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!--timeline-->
+  <section id="timeline">
+    <div class="wrapper">
+
+      <month ng-repeat="month in months" month-id="month.id" month-name="month.name" articles="articles"></month>
+
+    </div>
+  </section>
+
+  <!---footer-->
+  <footer>
+    <div class="wrapper">
+      <p>&copy; 2019
+        <a target="_blank" href="http://www.dbknews.com/">The Diamondback</a>
+      </p>
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <div id="addthis" class="addthis_inline_follow_toolbox"></div>
+    </div>
+  </footer>
+
+  <!--scroll to top button-->
+  <a id="top" class="btn-red">
+    <i class="fa fa-arrow-up"></i>
+  </a>
+
+  <!-- browser sync (lex)-->
+  <script id="__bs_script__">
+    //<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.19.13'><\/script>".replace("HOST", location.hostname));
+      //]]>
+  </script>
+
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-599e1f8aa9cc5b6e"></script>
+</body>
+
+</html>
