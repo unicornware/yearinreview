@@ -3,3 +3,57 @@
 // @see components/templates/Month.jsx
 // @author Lexus Drumgold
 // ----------------------------------------------------------------------------
+
+// Variables
+
+/// Device breakpoint
+/// @type Number
+$breakpoint-month: size(530px)
+
+// Styles
+
+.adt-month
+  +flex(column)
+
+  margin-bottom: size(3)
+  width: 100%
+
+.month-header
+  +flex(row, flex-end)
+
+  margin: 0 0 size(8) 0
+  width: 100%
+
+.month-name,
+.num-articles
+  text-transform: uppercase
+
+.month-name
+  +respond-to($breakpoint-month)
+    font-size: size(20)
+
+
+  color: $black
+  font-size: size(24)
+  margin-right: size(4)
+
+.num-articles
+  +respond-to($breakpoint-month)
+    font-size: size(14.5)
+
+
+  color: $accent-med
+  margin-left: size(4)
+
+.articles
+  +flex(row, center)
+
+  &.grid
+    column-gap: size(24)
+    -moz-column-gap: size(24)
+    -webkit-column-ga: size(24)
+    columns: 3 size(315px)
+    -moz-columns: 3 size(315px)
+    -webkit-columns: 3 size(315px)
+    padding: 0
+    width: 100%

@@ -1,0 +1,73 @@
+{
+  "dates": {
+    "academic": 2016,
+    "published": 2017
+  },
+  "months": [
+    {
+      "name": "august",
+      "year": 16,
+      "articles": []
+    },
+    {
+      "name": "september",
+      "year": 16,
+      "articles": []
+    },
+    {
+      "name": "october",
+      "year": 16,
+      "articles": []
+    },
+    {
+      "name": "november",
+      "year": 16,
+      "articles": []
+    },
+    {
+      "name": "december",
+      "year": 16,
+      "articles": []
+    },
+    {
+      "name": "january",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "february",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "march",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "april",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "may",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "june",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "july",
+      "year": 17,
+      "articles": []
+    },
+    {
+      "name": "august",
+      "year": 17,
+      "articles": []
+    }
+  ]
+}

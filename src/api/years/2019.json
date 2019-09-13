@@ -1,152 +1,739 @@
 {
-  "year": {
+  "dates": {
     "academic": 2018,
     "published": 2019
   },
   "months": [
     {
       "name": "august",
-      "year": "18",
+      "year": 18,
       "articles": [
         {
           "graph": "An ESPN report detailing an abusive culture within Maryland’s football team — which came after McNair’s death from heatstroke suffered at a team workout — would tip off months of investigations into the program.",
           "headline": "Maryland football’s culture under DJ Durkin has been abusive to players, ESPN report says",
           "href": "https://dbknews.com/2018/08/11/maryland-football-jordan-mcnair-death-dj-durkin-investigation-abuse-rick-court/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/033017FootballvsSpringPractice_Durkin_mkm01-1024x683-13.jpg"
           }
         },
         {
           "graph": "After McNair’s death and ESPN’s report on Maryland football’s alleged “toxic culture,” strength and conditioning coach Rick Court, head football athletic trainer Wes Robinson and athletic training director Steve Nordwall were placed on leave. Later that month, Court resigned. It would take another five months for resolution regarding the athletic trainers.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/11/maryland-football-coaches-leave-jordan-mcnair-death-investigation-rick-court-wes-robinson/",
-            "text": "Three Maryland football staffers placed on leave after reports of “toxic” environment"
-          },
+          "headline": "Three Maryland football staffers placed on leave after reports of “toxic” environment",
+          "href": "https://dbknews.com/2018/08/11/maryland-football-coaches-leave-jordan-mcnair-death-investigation-rick-court-wes-robinson/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/ByrdStatium_09162014_6758-1024x683-41.jpg"
           }
         },
         {
           "graph": "After a stint in the interim role, Damon Evans was hired as the full-time athletic director in June 2018 and rapidly faced tough decisions regarding the football program. One of those decisions was to place coach DJ Durkin on leave, following McNair’s death and ESPN’s report of a “toxic culture.”",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/11/maryland-football-dj-durkin-leave-espn-report-abuse-matt-canada-jordan-mcnair/",
-            "text": "Maryland football coach DJ Durkin placed on leave after reports of abusive culture"
-          },
+          "headline": "Maryland football coach DJ Durkin placed on leave after reports of abusive culture",
+          "href": "https://dbknews.com/2018/08/11/maryland-football-dj-durkin-leave-espn-report-abuse-matt-canada-jordan-mcnair/",
           "img": {
-            "alt": "",
-            "src": ""
-          }
-        },
-        {
-          "graph": "Two days after being placed on administrative leave, strength and conditioning coach Rick Court — who was a central figure in ESPN’s report and was Durkin’s first hire — resigned. Court received $315,000 in a settlement with Maryland, two-thirds of his remaining contract.",
-          "headline": {
-            "href": "http://www.dbknews.com/2018/08/14/maryland-football-rick-court-fired-dj-durkin-jordan-mcnair-death-heatstroke-investigation-abuse/",
-            "text": "UMD parts ways with strength and conditioning coach Rick Court after reports of abuse"
-          },
-          "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/090917FBvsTowson_Durkin_mkm01-e1506750192496-36.jpg"
           }
         },
         {
-          "graph": "About two months after McNair’s death, the athletic department announced an external task force to look into the program’s culture. The original group consisted of two former judges, one former federal prosecutor and an unnamed former football coach and athletic administrator.",
-          "headline": {
-            "href": "http://www.dbknews.com/2018/08/14/maryland-football-jordan-mcnair-death-investigation-external-review-walters-inc/",
-            "text": "UMD announces task force investigating reports of abuse in football program"
-          },
+          "graph": "Two days after being placed on administrative leave, strength and conditioning coach Rick Court — who was a central figure in ESPN’s report and was Durkin’s first hire — resigned. Court received $315,000 in a settlement with Maryland, two-thirds of his remaining contract.",
+          "headline": "UMD parts ways with strength and conditioning coach Rick Court after reports of abuse",
+          "href": "http://www.dbknews.com/2018/08/14/maryland-football-rick-court-fired-dj-durkin-jordan-mcnair-death-heatstroke-investigation-abuse/",
           "img": {
-            "alt": "",
-            "src": ""
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/100315FBvsUM_Byrd_abj01-29.jpg"
           }
         },
         {
           "graph": "About two months after McNair’s death, the athletic department announced an external task force to look into the program’s culture. The original group consisted of two former judges, one former federal prosecutor and an unnamed former football coach and athletic administrator.",
-          "headline": {
-            "href": "http://www.dbknews.com/2018/08/14/maryland-football-jordan-mcnair-death-investigation-external-review-walters-inc/",
-            "text": "UMD announces task force investigating reports of abuse in football program"
-          },
+          "headline": "UMD announces task force investigating reports of abuse in football program",
+          "href": "http://www.dbknews.com/2018/08/14/maryland-football-jordan-mcnair-death-investigation-external-review-walters-inc/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_20180814_152246-1024x768-13.jpg"
           }
         },
         {
           "graph": "University President Wallace Loh accepted “legal and moral” responsibility for the offensive lineman’s death, stemming from initial evidence that athletic trainers didn’t treat McNair’s heatstroke correctly.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/14/maryland-football-responsibility-jordan-mcnair-death-loh-evans/",
-            "text": "Loh accepts “legal and moral” responsibility for McNair’s death"
-          },
+          "headline": "Loh accepts “legal and moral” responsibility for McNair’s death",
+          "href": "https://dbknews.com/2018/08/14/maryland-football-responsibility-jordan-mcnair-death-loh-evans/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/image_from_ios-1024x768-27.jpg"
           }
         },
         {
           "graph": "The founding director of the university’s Office of Civil Rights and Sexual Misconduct stepped down, setting off a tumultuous year at the office, which remained under interim leadership for six months. She had previously spoken out about her office, calling it under-resourced and under-staffed.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/15/catherine-carroll-umd-title-ix-officer-civil-rights-sexual-misconduct-resigns/",
-            "text": "UMD’s Title IX Officer has resigned"
-          },
+          "headline": "UMD’s Title IX Officer has resigned",
+          "href": "https://dbknews.com/2018/08/15/catherine-carroll-umd-title-ix-officer-civil-rights-sexual-misconduct-resigns/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/022818_catherineCarroll_RM-12_preview-36.jpg"
           }
         },
         {
           "graph": "The University System of Maryland Board of Regents, a group that sets policies for this university and others within the system, voted to take control of both the external investigation into the alleged “toxic culture” as well as the Walters investigation into the circumstances surrounding McNair’s death.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/17/umd-football-jordan-mcnair-death-investigation-board-of-regents-walters-inc/",
-            "text": "USM Board of Regents will take control of investigation into Jordan McNair’s death"
-          },
+          "headline": "USM Board of Regents will take control of investigation into Jordan McNair’s death",
+          "href": "https://dbknews.com/2018/08/17/umd-football-jordan-mcnair-death-investigation-board-of-regents-walters-inc/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/121115_BoardOfRegents_tsh01-1024x682-1-13.jpg"
           }
         },
         {
           "graph": "A Diamondback investigation revealed former athletic director Kevin Anderson oversaw the hiring of a law firm in a university sexual misconduct case involving members of the football team, violating university ethical and equity standards.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/23/maryland-football-kevin-anderson-sexual-misconduct-payment-athletic-department/",
-            "text": "Former UMD AD Kevin Anderson intervened in sexual misconduct case involving football players"
-          },
+          "headline": "Former UMD AD Kevin Anderson intervened in sexual misconduct case involving football players",
+          "href": "https://dbknews.com/2018/08/23/maryland-football-kevin-anderson-sexual-misconduct-payment-athletic-department/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/5701930104_69d4cfedd7_o-13.jpg"
           }
         },
         {
           "graph": "Further reporting indicated it was Durkin who initiated the hiring of the law firm that would represent two football players embroiled in a university sexual misconduct investigation, which was overseen by then-athletic director Kevin Anderson.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/24/umd-dj-durkin-kevin-anderson-attorneys-sexual-misconduct-case/",
-            "text": "Lawyer for football players accused of sexual misconduct says DJ Durkin hired him"
-          },
+          "headline": "Lawyer for football players accused of sexual misconduct says DJ Durkin hired him",
+          "href": "https://dbknews.com/2018/08/24/umd-dj-durkin-kevin-anderson-attorneys-sexual-misconduct-case/",
           "img": {
-            "alt": "",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/041616FBvsSpringGame_Durkin_mwr01-1024x683-24.jpg"
           }
         },
         {
           "graph": "A week after taking over the investigation into Maryland football’s culture, the Board of Regents added to the original task force. The five new members included former Maryland Gov. Robert Ehrlich, former Washington Redskins quarterback Doug Williams and Bonnie Bernstein, a veteran sports journalist who attended this university.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/24/umd-football-investigation-commission-doug-williams-robert-ehrlich-tom-mcmillen/",
-            "text": "Former governor, NFL quarterback, congressman all added to commission on Maryland football"
-          },
+          "headline": "Former governor, NFL quarterback, congressman all added to commission on Maryland football",
+          "href": "https://dbknews.com/2018/08/24/umd-football-investigation-commission-doug-williams-robert-ehrlich-tom-mcmillen/",
           "img": {
-            "alt": "",
-            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/WilliamsEhrlichBernstein-e1535144529302-12.png"
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/100315FBvsUM_Byrd_abj01-29.jpg"
           }
         },
         {
           "graph": "The university’s Office of Civil Rights and Sexual Misconduct lost its deputy director and two other employees after founding director Catherine Carroll’s departure. The university would add two “temporary” staffers in their places, adding that further hiring would be completed once there was a new director in place.",
-          "headline": {
-            "href": "https://dbknews.com/2018/08/24/umd-football-investigation-commission-doug-williams-robert-ehrlich-tom-mcmillen/",
-            "text": "After its director’s resignation, UMD’s Title IX Office is losing three more staffers"
-          },
+          "headline": "After its director’s resignation, UMD’s Title IX Office is losing three more staffers",
+          "href": "https://dbknews.com/2018/08/24/umd-football-investigation-commission-doug-williams-robert-ehrlich-tom-mcmillen/",
           "img": {
-            "alt": "Outside of the Title IX Office. The Title IX office is located on the third floor of Susquehanna Hall. (Elliot Scarangello / The Diamondback)",
             "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/092717_titleIXOffice_ess07-15.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "september",
+      "year": 18,
+      "articles": [
+        {
+          "graph": "Maryland football opened the season in dominant fashion, handily defeating No. 23 Texas for the second time in two years, an uplifting beginning for a team embroiled in tragedy and scandal.",
+          "headline": "Maryland football upsets No. 23 Texas, 34-29, for second time in two years",
+          "href": "https://dbknews.com/2018/09/01/maryland-football-texas-game-score-recap-jordan-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG9540821-e1535837829252-27.jpg"
+          }
+        },
+        {
+          "graph": "After university officials put forth a proposal to construct athletic fields and parking on part of its golf course, Maryland Golf Course Coalition activist Norman Starkey revived his efforts to protect the valuable green space in College Park.",
+          "headline": "He’s played on UMD’s golf course for decades. Now he’s fighting to save it — again.",
+          "href": "https://dbknews.com/2018/09/04/umd-golf-course-construction-opposition/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/083018_GolfCourseResistanceMovement_mapache2-1-of-1-14.jpg"
+          }
+        },
+        {
+          "graph": "Amid a syllabus week heat wave, students in dorms without air conditioning camped out in their buildings’ air-conditioned lounges.",
+          "headline": "UMD students in dorms without AC have taken to sleeping in lounges",
+          "href": "https://dbknews.com/2018/09/03/umd-dorms-heat-advisory-sleeping-lounges/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/08302018CityCouncilPreview_ESS24-29.jpg"
+          }
+        },
+        {
+          "graph": "The university stood by a counseling group called White Awake, billed as a “safe space” for white students. After promotional flyers drew backlash on social media, the university changed the group’s name.",
+          "headline": "UMD stands by “safe space” group for white students to discuss race, despite pushback",
+          "href": "https://dbknews.com/2018/09/14/umd-white-awake-group-safe-space-race-counseling-center/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/flyer-14.jpg"
+          }
+        },
+        {
+          "graph": "Senior finance major Zac Garcia, who friends remembered as caring and fun-loving, died in a car crash in Pennsylvania that injured four other members of the university’s Phi Gamma Delta fraternity chapter.",
+          "headline": "“Just contagious”: UMD student Zac Garcia remembered as a loving, outgoing friend",
+          "href": "https://dbknews.com/2018/09/17/umd-zac-garcia-car-crash-obituary/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/garcia-14.jpg"
+          }
+        },
+        {
+          "graph": "A report from Dr. Rod Walters stated athletic trainers did not promptly recognize McNair’s heatstroke symptoms and failed to properly treat him once they did. In addition to providing details surrounding the May 29, 2018, organized team workout, Walters submitted 20 recommendations to improve athletic emergency response.",
+          "headline": "Report lays out failures of UMD’s training staff that led to Jordan McNair’s death",
+          "href": "https://dbknews.com/2018/09/21/jordan-mcnair-death-investigation-maryland-football-walters-inc/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Image-from-iOS-4-21.jpg"
+          }
+        },
+        {
+          "graph": "Shortly after the 126-page report from Rod Walters was made public, Loh defended Maryland’s athletic department’s sports medicine policies and said many of the recommendations Walters suggested had already been implemented.",
+          "headline": "UMD President Wallace Loh defends athletic department policies after Jordan McNair report",
+          "href": "https://dbknews.com/2018/09/22/jordan-mcnair-maryland-football-death-investigation-report-athletic-department-walters-inc-wallace-loh/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Image-from-iOS-7-21.jpg"
+          }
+        },
+        {
+          "graph": "Students in Elkton Hall first started noticing mold in their dorm rooms over Labor Day weekend. As the weeks passed, more and more reports trickled in. Eventually, the university would move students floor-by-floor into local hotels as cleaning took place.",
+          "headline": "After numerous mold reports, Elkton Hall residents are being relocated to hotels",
+          "href": "https://dbknews.com/2018/09/24/umd-mold-elkton-hall-hotels-sick-relocation/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_0057-31.jpg"
+          }
+        },
+        {
+          "graph": "A proposal to build apartments and retail space where the Quality Inn and Plato’s Diner once stood took a big step forward when the city approved its tax cut in September.",
+          "headline": "College Park will give $4 million tax cut for Route 1 apartment complex",
+          "href": "https://dbknews.com/2018/09/26/college-park-quality-inn-platos-diner-apartments-development-tax-cut/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/09252018Cityhall_ESS03-18.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "october",
+      "year": 18,
+      "articles": [
+        {
+          "graph": "Members of the Champions Club, a group of high-level Maryland football boosters, stood by Durkin despite mounting evidence of an abusive culture and athletic training failures related to McNair’s death.",
+          "headline": "Despite mounting evidence, top boosters stand by Maryland football’s DJ Durkin",
+          "href": "https://dbknews.com/2018/10/01/maryland-football-coach-dj-durkin-scandal-investigation-abuse-espn-jordan-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/020316FB_NationalSigningDay_Durkin_ccj02-1024x683-16.jpg"
+          }
+        },
+        {
+          "graph": "After insisting he hadn’t heard anything about an abusive or toxic culture in Maryland’s football team, Loh admitted to receiving an anonymous email on the matter, which he had forwarded to then-athletic director Kevin Anderson.",
+          "headline": "UMD President Loh confirms he got an anonymous email about football program abuse",
+          "href": "https://dbknews.com/2018/10/05/umd-president-loh-confirms-he-got-an-anonymous-email-about-football-program-abuse/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/100318.senate.meeting.mpache11-1-of-1-e1538545996475.jpg"
+          }
+        },
+        {
+          "graph": "Although reports of mold were initially concentrated in Elkton Hall, students quickly began to report it in other dorms across the campus, including in Anne Arundel, Bel Air and Cumberland halls. Officials blamed a particularly rainy and humid summer and start to the semester.",
+          "headline": "UMD students say they’ve found mold in at least 10 dorms and apartments",
+          "href": "https://dbknews.com/2018/10/04/mold-umd-dorms-apartments-resident-life-hotel-elkton/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/100318_news.mold_.follow-up_jr01-15.jpg"
+          }
+        },
+        {
+          "graph": "Housekeepers tasked with eradicating mold spores in affected dorms said they weren’t offered safety equipment such as respirators, vented goggles or coveralls, nor were they trained for mold remediation.",
+          "headline": "Dozens of UMD housekeepers say they’ve gotten sick from cleaning mold",
+          "href": "https://dbknews.com/2018/10/08/umd-mold-dorms-cleaning-housekeepers-sick-elkton-bel-air-hall-afscme/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/print.jpg"
+          }
+        },
+        {
+          "graph": "Several university housekeepers from three different dorms described a culture in which they were chastised by their superiors for speaking their native Spanish.",
+          "headline": "“I feel humiliated”: UMD housekeepers say they’ve been rebuked for speaking Spanish",
+          "href": "https://dbknews.com/2018/10/25/umd-housekeepers-spanish-discrimination-union-cleaning-worker-dorms/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/SPANISH3.jpg"
+          }
+        },
+        {
+          "graph": "A leaked copy of the report written by the commission tasked with evaluating the university’s football team blamed issues on infighting in the university’s athletic department and poor oversight of coaching staff, but stopped short of calling the team’s culture “toxic.”",
+          "headline": "Durkin, Loh, Evans share responsibility for abusive Maryland football culture, per report",
+          "href": "https://dbknews.com/2018/10/25/maryland-football-culture-report-investigation-durkin-mcnair-loh-court-anderson-evans-regents/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Image-from-iOS-6-7.jpg"
+          }
+        },
+        {
+          "graph": "President Loh announced his retirement, which was set for June 2019. The news would be followed by reports that the Board of Regents pushed him to retire after he advocated for Durkin’s firing. But his end date didn’t last — Loh later postponed his retirement by one year.",
+          "headline": "UMD’s DJ Durkin, Damon Evans will keep jobs; Wallace Loh to retire in June",
+          "href": "https://dbknews.com/2018/10/30/maryland-football-investigation-dj-durkin-damon-evans-wallace-loh-board-of-regents-report/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/img_9868.jpg"
+          }
+        },
+        {
+          "graph": "One day after Loh accepted the Board of Regents’ recommendation to reinstate Durkin, Loh reversed course and fired Durkin. Loh and the university faced strong public criticism for initially keeping Durkin — and since he was fired without cause, the university owed him about $5.1 million.",
+          "headline": "Maryland fires coach DJ Durkin, one day after Board of Regents recommended he stay",
+          "href": "https://dbknews.com/2018/10/31/dj-durkin-maryland-football-coach-fired-board-of-regents-wallace-loh/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/1031201802.jpg"
+          }
+        },
+        {
+          "graph": "Data released from the university's Institutional Research, Planning and Assessment office showed that black students made up the smallest share of the freshman class since the office began collecting data in 1992. Black students made up just 7.3 of the class of 2022, down 3.5 percentage points from the year before, according to data.",
+          "headline": "UMD’s black freshman enrollment is at its lowest level in decades",
+          "href": "https://dbknews.com/2018/11/01/umd-enrollment-data-black-students-freshman-class-diversity-hate-bias/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/20180509_152827-1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "november",
+      "year": 18,
+      "articles": [
+        {
+          "graph": "After finding a new normal for a few months, Maryland football’s season was turned upside down again when  Durkin was reinstated and then fired within 24 hours of the announcement sharing his return. The decision left players confused while offering McNair’s loved ones a path toward healing.",
+          "headline": "“A roller-coaster”: Maryland football reacts to DJ Durkin’s return, firing",
+          "href": "https://dbknews.com/2018/11/01/maryland-football-dj-durkin-fired-coach-jordan-mcnair-johnny-wallace-loh-regents-investigation/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/testudocrop2.jpg"
+          }
+        },
+        {
+          "graph": "The commission responsible for higher education institutions’ accreditation — a status that allows students to receive federal financial aid — announced it would review the university's status after the Board of Regents’ intervention in school affairs during the football scandal.",
+          "headline": "UMD’s accreditation is under review in the wake of football scandals",
+          "href": "https://dbknews.com/2018/11/01/umd-accreditation-football-scandal-investigation-dj-durkin-wallace-loh-board-of-regents/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/022117_CampusArt_jcl06.jpg"
+          }
+        },
+        {
+          "graph": "The Board of Regents chair resigned after facing backlash for the board’s decision to retain Durkin. Though he was proud of the board’s investigation process, former University System Board of Regents chair James Brady said “reasonable people could come to other conclusions.”",
+          "headline": "James Brady resigns as Board of Regents chair amid Maryland football scandal",
+          "href": "https://dbknews.com/2018/11/01/maryland-regents-james-brady-football-scandal-wallace-loh-dj-durkin-jordan-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_9859.jpg"
+          }
+        },
+        {
+          "graph": "During what was originally planned as a protest of Durkin’s reinstatement as football coach, the Student Government Association offered a message of support for student athletes. But not all of the student groups that attended the rally agreed with the new message.",
+          "headline": "At “Justice for Jordan” rally, UMD student groups clash over football support",
+          "href": "https://dbknews.com/2018/11/02/maryland-football-justice-for-jordan-rally-protest-umd-students-dj-durkin-wallace-loh-board-of-regents/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_7293-1.jpg"
+          }
+        },
+        {
+          "graph": "Following a hectic “Justice for Jordan” rally where student government representatives urged support for student athletes, two dozen other student groups rallied with a set of three demands: That Loh stay committed to his retirement, that his successor be chosen with student input and that the regents on the University System of Maryland’s board be democratically elected.",
+          "headline": "Disillusioned with UMD’s leadership, 24 student groups rally to “Fire the Liars”",
+          "href": "https://dbknews.com/2018/11/06/maryland-football-protest-rally-fire-the-liars-wallace-loh-dj-durkin-jordan-mcnair-students-sga-2/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/11518_firetheliars_JEN24.jpg"
+          }
+        },
+        {
+          "graph": "Even a rally right before rails couldn’t power Ben Jealous to victory over Maryland’s Republican Gov. Larry Hogan. Hogan defeated the progressive former NAACP president by a wide margin, propelling him to a record-setting second term.",
+          "headline": "Larry Hogan re-elected, becomes first two-term Republican governor of Maryland in 64 years",
+          "href": "https://dbknews.com/2018/11/06/governor-larry-hogan-wins-reelection-midterm-ben-jealous-maryland/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/041017_Hogan_tsh01-825x510.jpg"
+          }
+        },
+        {
+          "graph": "After the release of two reports into the university's football team, the university fired the two trainers responsible for caring for McNair when he suffered heatstroke at a team workout. Three months had elapsed since they’d originally been placed on leave.",
+          "headline": "After 5 months, UMD parts ways with trainers who failed to properly treat Jordan McNair",
+          "href": "https://dbknews.com/2018/11/07/maryland-football-fire-trainers-jordan-mcnair-steve-nordwall-wes-robinson-dj-durkin-investigation-abuse-culture-heatstroke/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/wesrobinson3.jpg"
+          }
+        },
+        {
+          "graph": "New Board of Regents chair Linda Gooden acknowledged the board had “lost sight of its responsibility to the university system” during its investigations into the University of Maryland’s football program.",
+          "headline": "New chairwoman apologizes for Board of Regents’ decisions on Maryland football scandal",
+          "href": "https://dbknews.com/2018/11/07/umd-board-of-regents-chair-linda-gooden-maryland-football-scandal-james-brady-dj-durkin-jordan-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/121115_BoardOfRegents_tsh01.jpg"
+          }
+        },
+        {
+          "graph": "Maryland football defied expectations when it came about as close as possible to beating Ohio State without finishing the job. A failed overtime two-point conversion attempt sealed Maryland’s fate after a hard-fought and incredibly high-scoring game.",
+          "headline": "Maryland football nearly upsets No.9 Ohio State in 52-51 OT loss",
+          "href": "https://dbknews.com/2018/11/17/maryland-football-ohio-state-score-recap-result-upset-dwayne-haskins/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/111718_football_JEN13.jpg"
+          }
+        },
+        {
+          "graph": "Freshman Olivia Paregol died after contracting a serious strain of adenovirus. Her family later expressed concerns that the mold outbreak in her building, Elkton Hall, could have worsened her illness, and that Paregol, who was immunocompromised because of medication for Crohn’s disease, wasn’t warned about other adenovirus cases on campus.",
+          "headline": "“A light wherever she went”: Olivia Paregol remembered for her fun-loving nature",
+          "href": "https://dbknews.com/2018/11/25/umd-student-death-adenovirus-olivia-paregol-obituary-pneumonia/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/image_123986672.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "december",
+      "year": 18,
+      "articles": [
+        {
+          "graph": "Less than a month after Paregol’s death, the university confirmed it had at least 22 cases of students diagnosed with adenovirus. A handful of those were of a more serious strain, adenovirus 7.",
+          "headline": "There have been at least 22 cases of adenovirus at UMD",
+          "href": "https://dbknews.com/2018/12/03/umd-adenovirus-22-confirmed-sick-olivia-paregol-cases/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/030116_sgaMentalHealth_okc05.jpg"
+          }
+        },
+        {
+          "graph": "At the end of a semester filled with turmoil, Loh shot back at the Board of Regents for limiting the university’s autonomy in personnel decisions. The board had previously publicly recommended that Loh retain Durkin and Evans — a move some believed forced his hand.",
+          "headline": "At State of the Campus, UMD President Loh criticizes Regents, touts campus improvements",
+          "href": "https://dbknews.com/2018/12/05/umd-president-wallace-loh-state-of-the-campus-speech-board-of-regents-football-investigation-dj-durkin/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Image-from-iOS-14-2.jpg"
+          }
+        },
+        {
+          "graph": "Sasho Cirovski has built a dynasty in College Park, but Maryland hadn’t reached the pinnacle of college soccer since its 2008 national title. That changed in 2018, a decade later, with a stifling defense pushing the Terps through the NCAA tournament, beating Akron 1-0 for another championship.",
+          "headline": "Maryland men’s soccer wins 4th national title with 1-0 win over Akron",
+          "href": "https://dbknews.com/2018/12/09/maryland-soccer-national-championship-akron-score-recap-result-sasho-cirovski-amar-sejdic/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/MSoccer-Championships-12092018-AngelicaBanks-51.jpg"
+          }
+        },
+        {
+          "graph": "Special project: Two facilities management employees sued the university, alleging discriminatory practices at work. Their story is one of sacrifice and struggle, and their multi-million dollar case against the university is ongoing.",
+          "headline": "“Maryland has wrecked my life”: The story behind a $3 million racial discrimination lawsuit at UMD",
+          "href": "https://dbknews.com/2018/12/10/umd-discrimination-lawsuit-facilities-management-black-workers/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/1024201833.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "january",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "The trial for former University of Maryland student Sean Urbanski experienced its third delay since his indictment. A spokesperson for Aisha Braveboy, Prince George’s County’s state’s attorney, said staff “needed more time to prepare and catch up on the case.” Urbanski is charged with first-degree murder and a hate crime in the death of 2nd Lt. Richard Collins, a black Bowie State University student who was days from graduating.",
+          "headline": "Sean Urbanski’s trial has been postponed for a third time",
+          "href": "https://dbknews.com/2019/01/03/sean-urbanski-murder-trial-delayed-richard-collins-umd-bowie-state-hate-crime-charge/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/LRHK2IR6HMI6PMU76QH7Z3JN3M.jpg"
+          }
+        },
+        {
+          "graph": "Chris Vadala, the University of Maryland’s well-loved jazz studies director, died after more than 20 years of uplifting students and encouraging them to push their musical boundaries. Over the course of his career, he added his sound to more than 100 recordings and worked alongside artists such as Aretha Franklin and Stevie Wonder.",
+          "headline": "UMD’s jazz studies director Chris Vadala remembered for “unfailing generosity of spirit”",
+          "href": "https://dbknews.com/2019/01/21/chris-vadala-umd-music-professor-death-obituary-saxophone-jazz-studies/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Chris-Vadala-headshot.png"
+          }
+        },
+        {
+          "graph": "To mixed reactions, Loh announced he wouldn’t be retiring at the end of the 2018-19 academic year, as he had initially said he would. This decision came after a closed-door meeting between Loh and the Board of Regents, which state legislators later pointed to as exemplifying a trend of opaque leadership practices.",
+          "headline": "Wallace Loh will remain UMD’s president through 2020",
+          "href": "https://dbknews.com/2019/01/30/umd-wallace-loh-president-remain-2020-search-committee-board-of-regents/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/080217_ColeFieldHouseOpening_tsh-05.jpg"
+          }
+        },
+        {
+          "graph": "Some University of Maryland students were disappointed by  Loh’s decision to stay on another year, which they said epitomized deeply embedded transparency issues within the school’s leadership structure.",
+          "headline": "“He’s going back on his word”: UMD students react to President Loh postponing retirement",
+          "href": "https://dbknews.com/2019/01/31/umd-president-wallace-loh-retirement-postponed-2020-announcement-usm-board-of-regents-students/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/RichardCollinsVigil_jrl05.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "february",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "Hundreds gathered at the University of Maryland’s Memorial Chapel to celebrate the life of Robin Sawyer, an incessantly passionate public health professor who delighted in challenging his students’ assumptions about sex and catching them off-guard with dirty jokes.",
+          "headline": "Family and students mourn UMD’s Robin Sawyer, who taught wildly popular sexuality class",
+          "href": "https://dbknews.com/2019/02/04/umd-robin-sawyer-obituary-death-professor-public-health-human-sexuality/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Image-from-iOS-5.jpg"
+          }
+        },
+        {
+          "graph": "Special project: Freshman Maria Fisher made frantic phone calls for help in the moments before she was hit and killed by a car in October 2017. Months passed, and then a year, and her family still had no answers about Fisher’s final hours.",
+          "headline": "More than a year after Maria Fisher’s death, her loved ones still search for answers",
+          "href": "https://dbknews.com/2019/02/19/maria-fisher-umd-student-killed-route-1-car-accident-college-park-ghb/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/122918_lititzmariafisher_JEN21.jpg"
+          }
+        },
+        {
+          "graph": "Loh announced the majority of the recommendations from the two investigations stemming from the death of McNair had been put in place, and that the school will create a panel to monitor their progress. Loh named six people to the panel, including someone who had died earlier that month.",
+          "headline": "UMD is creating another panel to monitor implementation of football report recommendations",
+          "href": "https://dbknews.com/2019/02/25/umd-board-of-regents-panel-football-recommendations-reports-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/02222019RegentsMeeting18.jpg"
+          }
+        },
+        {
+          "graph": "The Office of Civil Rights and Sexual Misconduct was under interim leadership for months before a permanent director was brought on. At the end of February, the university announced that Grace Karmiol, a former Title IX coordinator at Widener University in Pennsylvania for five years, would head up the office.",
+          "headline": "After six months without a permanent Title IX director, UMD announces office’s new leader",
+          "href": "https://dbknews.com/2019/02/27/umd-new-title-ix-director-grace-karmiol-widener-university-loh-announcement/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/092717_titleIXOffice_ess09.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "march",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "The committee tasked with implementing recommendations from two investigations into the University of Maryland’s football program announced it was close to meeting its goal. Among other reforms, the program updated emergency action plans, made cold water immersion tubs available at every practice and established an online portal where athletes can anonymously report their concerns, although they mentioned no player had used the portal at that time.",
+          "headline": "UMD has enacted most recommendations after Jordan McNair’s death, committee says",
+          "href": "https://dbknews.com/2019/03/07/umd-football-reports-committee-implement-recommendations-jordan-mcnair/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/YQGJOTBIUVBWDGA43R47F25YOI.jpg"
+          }
+        },
+        {
+          "graph": "Though the University of Maryland had a record amount of sexual misconduct reports in the 2017-18 academic year, it conducted the lowest number of investigations in the office’s history. Andrea Goodwin, the Office of Civil Rights and Sexual Misconduct’s former interim co-director, didn’t give a specific reason for why the investigation count was lower, saying what leads to an investigation depends on the case.",
+          "headline": "UMD investigated far fewer sexual misconduct complaints last year, despite spike in reports",
+          "href": "https://dbknews.com/2019/03/19/umd-title-ix-student-sexual-assault-report-investigation-ocrsm-director/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/092717_titleIXOffice_ess09.jpg"
+          }
+        },
+        {
+          "graph": "The university had a chief diversity officer in years prior, but Georgina Dodge was the first selected for the role since it was raised to the vice presidential level. A former CDO at Bucknell University, Dodge replaced Cynthia Edmunds, the interim CDO, following Roger Worthington’s departure from the position after just over a year on the job.",
+          "headline": "UMD names Bucknell CDO Georgina Dodge its new diversity and inclusion VP",
+          "href": "https://dbknews.com/2019/03/25/umd-vpdi-georgina-dodge-office-diversity-inclusion-cdo-bucknell/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/G5QKTHWUGBEJHDJTVVPGKQ5J7Q.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "april",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "A bill that would have given collective bargaining rights to graduate students at this university was quashed by the Maryland Senate Finance Committee chair, saying her cost concerns outweighed the benefits of the legislation. Graduate students have submitted seven bills to accomplish this in the last two decades, and this was the closest they’ve gotten to succeeding.",
+          "headline": "UMD grad students surprised by sudden failure of collective bargaining bill",
+          "href": "https://dbknews.com/2019/04/05/maryland-bill-graduate-student-workers-collective-bargaining-rights-dead-senate/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/2006_09_19_-_Annapolis_-_Sunset_over_State_House.jpg"
+          }
+        },
+        {
+          "graph": "Lesley, who ran on the platform of increasing transparency and involvement in the Student Government Association, said she reached out to over 100 campus clubs and organizations to hear their concerns and goals. A member of the Empower Maryland ticket, she won after one of the most highly contested elections in recent history.",
+          "headline": "Ireland Lesley will be UMD SGA’s next president",
+          "href": "https://dbknews.com/2019/04/17/umd-sga-president-ireland-lesley-elections-empower-maryland/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/0413.lesley.gob-2.jpg"
+          }
+        },
+        {
+          "graph": "Stanley Plumly, a longtime university professor and Maryland poet laureate, died from multiple myeloma complications on April 11. His former students recalled his impact on their lives and their careers.",
+          "headline": "UMD professor Stanley Plumly remembered for his devotion to students, poetry",
+          "href": "https://dbknews.com/2019/04/24/umd-stanley-plumly-obituary-poetry-professor-students/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_4262.jpeg"
+          }
+        },
+        {
+          "graph": "USM Chancellor Robert Caret announced the 20-person committee to find university President Wallace Loh’s successor would be composed of students, staff, faculty and alumni. This decision followed input from the University Senate, campus leaders and members of the campus community.",
+          "headline": "UMD faculty, students will help choose President Loh’s replacement",
+          "href": "https://dbknews.com/2019/04/25/umd-presidential-search-committee-wallace-loh-retire-announcement/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/030916_USM2Senate_tsh01-825x510-e1531273416109.jpg"
+          }
+        },
+        {
+          "graph": "During five hours of discussion, more than 100 students voiced their opinions on a bill encouraging this university to divest from companies that supporters say fund human rights violations in Palestinian territories. The bill was rejected 25-9.",
+          "headline": "UMD SGA strikes down BDS bill after five hours of discussion",
+          "href": "https://dbknews.com/2019/04/25/umd-bds-sga-israel-palestine-boycott-divestment-sanction/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/042419_0425.news_.townhallSGABDS_jr03.jpg"
+          }
+        },
+        {
+          "graph": "For the second straight year, Maryland football produced a first-round draft pick. Darnell Savage went 21st overall in the NFL Draft, joining DJ Moore as exciting Terps in professional football.",
+          "headline": "Green Bay Packers select Maryland safety Darnell Savage 21st overall in NFL Draft",
+          "href": "https://dbknews.com/2019/04/25/darnell-savage-nfl-draft-maryland-football-safety/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/111718_football_JEN37.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "may",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "After the Board of Regents came under intense scrutiny for its actions following McNair’s death, Maryland Gov. Larry Hogan signed proposed reforms of the institution into law. The legislation requires the board to expand its membership from 17 to 21 and publicly stream its open meetings.",
+          "headline": "Gov. Hogan signs USM Board of Regents reforms into law",
+          "href": "https://dbknews.com/2019/05/01/umd-board-of-regents-transparency-bill-annapolis-umd-statehouse-transparency-hogan/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/State_Of_The_State_24186471853-1.jpg"
+          }
+        },
+        {
+          "graph": "Art Attack 36 was flush with jazz, R&B and rap, with performers 10issues, THEY., Jessie Reyez and A$AP Ferg all delivering powerful sets.",
+          "headline": "Ride with the mob: A$AP Ferg performed at Xfinity Center for Art Attack 36",
+          "href": "https://dbknews.com/2019/05/06/aap-ferg-xfinity-center-art-attack-see-umd-jessie-reyez-concert-review/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/050319_artattack_JEN01.jpg"
+          }
+        },
+        {
+          "graph": "While the majority of respondents to a survey reported the University of Maryland’s climate was more positive than negative, a disproportionate number of students — mostly people of color, women, non-binary people, LBGTQ people and people with disabilities — reported feeling marginalized and detached.",
+          "headline": "UMD campus climate survey finds detachment, safety concerns are higher among minorities",
+          "href": "https://dbknews.com/2019/05/08/umd-climate-minorities-diversity-safety-survey/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/022117_CampusArt_jcl06-825x510-11.jpg"
+          }
+        },
+        {
+          "graph": "Regent Bob Pevenstein stepped down from the board after reports of rampant self-dealing in the University of Maryland Medical System’s board of which he was a member. The same scandal forced the resignation of Baltimore Mayor Catherine Pugh after The Baltimore Sun’s reporting revealed the medical system had paid her $500,000 for her minimally-circulated, self-published series of children’s books.",
+          "headline": "USM Board of Regents member resigns after University of Maryland Medical System scandal",
+          "href": "",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Regents-12-14-1.jpg"
+          }
+        },
+        {
+          "graph": "A crowd gathered on the steps of the University of Maryland’s Mitchell Building, brandishing foam fists and signs, and singing along to folk songs as they argued that the endangered Maryland Food Co-op served as a vital space for marginalized students and activists on campus.",
+          "headline": "“This is not the end”: UMD community members hold rally to save the Co-op",
+          "href": "https://dbknews.com/2019/05/15/umd-food-co-op-rally-save-close-stamp-debt/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/DSC1426.jpg"
+          }
+        },
+        {
+          "graph": "After legislators docked the equivalent of his salary from the university system’s budget in March, University System of Maryland Chancellor Robert Caret announced he’ll step down when his contract wraps up in June 2020.",
+          "headline": "USM Chancellor Robert Caret to step down next June",
+          "href": "https://dbknews.com/2019/05/16/university-system-maryland-chancellor-robert-caret-linda-gooden-robert-neall/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/02222019RegentsMeeting19.jpg"
+          }
+        },
+        {
+          "graph": "The family of Olivia Paregol — a University of Maryland student who died from complications of adenovirus — is taking steps to sue the school for its response to the spread of the virus and mold on the campus. Paregol’s father said this response endangered students and led to a delayed diagnosis for his daughter.",
+          "headline": "Olivia Paregol’s family takes steps to sue UMD for its response to adenovirus, mold",
+          "href": "https://dbknews.com/2019/05/21/umd-olivia-paregol-adenovirus-lawsuit-mold-president-loh/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/the-Paregols-1.jpg"
+          }
+        },
+        {
+          "graph": "Nearly a year after McNair suffered fatal heatstroke at a team workout, the school implemented the last of the 20 recommendations from a report generated by an investigation into his death. The university announced a national search for a new head team physician who will work under the University Health Center rather than the University of Maryland’s medical school in Baltimore.",
+          "headline": "University of Maryland to move athletics medical model to its health center",
+          "href": "https://dbknews.com/2019/05/23/maryland-football-rod-walters-report-health-care-model-damon-evans/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/12062018FootballPresser07.jpg"
+          }
+        },
+        {
+          "graph": "Maryland women’s lacrosse secured its 14th national title with a 12-10 victory over Boston College. The Terps, who avenged their lone loss of the season against Northwestern in the semifinal, were led by Tewaaraton Award winner Megan Taylor in goal.",
+          "headline": "Maryland women’s lacrosse wins 14th NCAA title after beating Boston College, 12-10",
+          "href": "https://dbknews.com/2019/05/26/maryland-womens-lacrosse-boston-college-national-ncaa-championship-game-score-recap-result/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/IMG_20190526_131732.jpg"
+          }
+        },
+        {
+          "graph": "For months, workers at the Maryland Food Co-op fought to keep their beloved shop open. But despite their best efforts, the Co-op — which served affordable and vegan-friendly options to students and was known as a meeting place for campus activists — shuttered at the end of May.",
+          "headline": "Despite the best efforts of its workers, the Maryland Food Co-op is closed",
+          "href": "https://dbknews.com/2019/06/11/umd-co-op-closed-permanent-official-stamp-food/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/06/co-op-rip-e1560268888262.jpeg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "june",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "Former Maryland basketball player was found not guilty on the fourth day of his rape trial in Upper Marlboro. A woman had accused him of engaging in sexual activity with her when she was drunk and unable to consent after a night out in College Park.",
+          "headline": "Jury acquits former Maryland basketball player Damonte Dodd on all charges in rape trial",
+          "href": "https://dbknews.com/2019/06/14/maryland-basketball-damonte-dodd-jury-not-guilty-acquitted-rape-trial/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/Nora-Courthouse-Pic.jpg"
+          }
+        },
+        {
+          "graph": "Bruno Fernando made strides in his sophomore campaign with Maryland basketball, propelling him to become one of the best big men in the Big Ten. The Atlanta Hawks took notice, and Fernando joined former Terps Alex Len and Kevin Huerter at the next level.",
+          "headline": "Bruno Fernando selected 34th overall in NBA Draft, traded to Atlanta Hawks",
+          "href": "https://dbknews.com/2019/06/20/maryland-basketball-bruno-fernando-nba-draft-atlanta-hawks-philadelphia-76ers/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/111618_basketball_JEN02.jpg"
+          }
+        },
+        {
+          "graph": "An outside commission that reviews accreditation placed this university on “warning,” citing concerns with its transparency and governance structure. These concerns included issues with the school’s autonomy in its relationship with the Board of Regents, which took control of two separate investigations into the university in the fall.",
+          "headline": "Accrediting agency puts UMD on warning due to “significant” concerns",
+          "href": "https://dbknews.com/2019/06/28/umd-accreditation-review-warning-result-board-of-regents/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/040419_senate_JEN16.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "july",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "For the fourth time, the trial for the former University of Maryland student charged with first-degree murder and a hate crime in the death of 2nd Lt. Richard Collins was delayed. The defense claimed they needed more time for an expert to sort through evidence from the student’s cell phone.",
+          "headline": "Sean Urbanski’s murder trial has been delayed for a fourth time",
+          "href": "https://dbknews.com/2019/07/11/umd-sean-urbanski-trial-delayed-richard-collins-fourth/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/LRHK2IR6HMI6PMU76QH7Z3JN3M-1.jpg"
+          }
+        },
+        {
+          "graph": "Multi-millionaire Jeffrey Epstein, who was arrested earlier that month on federal charges for trafficking minors, donated $35,000 to a youth tennis training facility based near the University of Maryland’s campus. The donation was one of many Epstein made to youth causes after he pleaded guilty to soliciting a minor for prostitution in 2008.",
+          "headline": "Sex offender Jeffrey Epstein donated thousands to College Park tennis center, per report",
+          "href": "https://dbknews.com/2019/07/12/college-park-epstein-donation-tennis-center/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/07/2019-07-21-1.png"
+          }
+        },
+        {
+          "graph": "The Board of Regents announced the five people who will review the University of Maryland’s response to the adenovirus outbreak, which ultimately affected more than 40 students. One — freshman criminology and criminal justice major Olivia Paregol — died from complications of the virus.",
+          "headline": "USM Board of Regents names people investigating UMD’s adenovirus response",
+          "href": "https://dbknews.com/2019/07/13/usm-umd-board-of-regents-investigation-adenovirus-report-college-park/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/02222019RegentsMeeting12.jpg"
+          }
+        },
+        {
+          "graph": "Thousands of University of Maryland students were erroneously charged for school health insurance despite submitting waivers on time, after a paperwork mix-up by the insurance broker for the Student Health Insurance Plan. Academic HealthPlans sent the university a list of students who had waived the insurance, rather than those who had not yet requested exemption.",
+          "headline": "Thousands of UMD students mistakenly charged in insurance waiver mix-up",
+          "href": "https://dbknews.com/2019/07/30/thousands-of-umd-students-mistakenly-charged-in-insurance-waiver-mix-up/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/2013-09-e61b66576b4915cf547d19ed649847f5.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "august",
+      "year": 19,
+      "articles": [
+        {
+          "graph": "A week before the start of the fall semester, the University of Maryland’s Title IX office was missing three investigators, an intake specialist and an administrative coordinator. A university spokesperson declined to comment on whether any of these positions would be filled by the time classes start on Aug. 26.",
+          "headline": "As the fall semester nears, UMD’s Title IX office still has five vacancies",
+          "href": "https://dbknews.com/2019/08/14/umd-title-ix-ocrsm-five-vacancies/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/092717_titleIXOffice_ess09-12.jpg"
+          }
+        },
+        {
+          "graph": "Sharon Kirkland-Gordon, who oversaw the university’s Counseling Center during an upsurge of student activism surrounding mental health, retired over the summer. While the university searches for Kirkland-Gordon’s replacement, Kelley Bishop, director of the University Career Center and the President’s Promise, will fill the role on an interim basis.",
+          "headline": "After nine years, Sharon Kirkland-Gordon has retired as director of UMD’s Counseling Center",
+          "href": "https://dbknews.com/2019/08/14/sharon-kirkland-gordon-retirement-director-counseling-center-umd/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/2010-09-1c7eee3df7068c51ceb3e94cc9453a62.jpg"
+          }
+        },
+        {
+          "graph": "Current student affairs assistant vice president John Zacker will assume the vice president position on an interim basis while the university searches for someone to replace Linda Clement, who served as student affairs vice president for 18 years.",
+          "headline": "Student affairs official to assume VP role during search for Linda Clement’s replacement",
+          "href": "https://dbknews.com/2019/08/18/umd-student-affairs-vp-search-linda-clement-retirement/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/05/2013-04-ecb385d5021007c08cd8957edb8d9829-3.jpg"
+          }
+        },
+        {
+          "graph": "Kylie Dawson, a rising junior history and government and politics major, died from injuries sustained in a car crash that also killed her father and brother. Her friends shared memories of her passion for serving others.",
+          "headline": "“Just radiant”: UMD student Kylie Dawson remembered as a loving friend who dreamed big",
+          "href": "https://dbknews.com/2019/08/20/umd-kylie-dawson-death/",
+          "img": {
+            "src": "https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/08/kylie-pres.jpg"
           }
         }
       ]

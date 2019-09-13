@@ -22,13 +22,8 @@
         "type": 301
       },
       {
-        "source": "/17",
+        "source": "/2017",
         "destination": "http://yearinreview.diamondbacklab.com",
-        "type": 302
-      },
-      {
-        "source": "/18",
-        "destination": "https://github.com/The-Diamondback-Lab/yearinreview",
         "type": 302
       },
       {
